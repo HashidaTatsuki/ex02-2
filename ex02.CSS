@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+html{
+    background-image: url(mokume\ .jpg) ;
+    color: rgba(180,180,180,0.95);
+}
+
+body{
+    width: 400px;
+    margin: 0 auto;
+}
+
+a{
+    color: aquamarine;
+}
+
+.contents{
+    font-size: 20px;
+}
+
+a:visited{
+    color:gray ;
+}
+
+a:hover{
+    color: violet;
+}
+
+a:active{
+    background: green;
+}
+
+li{
+    font-family: serif;
+}
